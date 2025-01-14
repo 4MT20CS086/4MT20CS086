@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-4MT20CS086/4MT20CS086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KIRANKUMAR KM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
